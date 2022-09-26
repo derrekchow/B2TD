@@ -1,8 +1,6 @@
 # B2TD
 B2TD is a graphical user interface and software program created using [TouchDesigner](https://derivative.ca/). The program is designed control the intelligent lighting and projection system of the Black Box Experimental Studio in the [B2 Center for Media, Arts &amp; Performance](https://www.colorado.edu/atlas/b2).
 
-B2TD was created by [Derrek Chow](https://derrekchow.com/) in summer 2022.
-
 https://user-images.githubusercontent.com/17170744/192176796-3e930a20-003e-49d7-8083-cbad21f1d8d8.mov
 
 ## Walkthrough and Performances
@@ -33,3 +31,6 @@ The current iteration of B2TD has limited functionality and documentation, the d
 - Connecting projector visuals to light parameters and vice versa
 
 To expand the program functionality, please contact b2td@derrekchow.com
+
+## Credits
+B2TD was created by [Derrek Chow](https://derrekchow.com/) in Summer 2022.
