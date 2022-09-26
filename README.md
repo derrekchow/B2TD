@@ -9,7 +9,7 @@ The following videos walkthrough how to use B2TD. The begineer video does not as
 - [B2TD Walkthrough - Begineer](https://youtu.be/igb4PtH6loI)
 - [B2TD Walkthrough - Intermediate](https://youtu.be/IyKhHiP4D_Y)
 
-The walkthrough videos along with performances created using B2TD can be found in the playlist: [B2TD - Walkthrough and Performances](https://www.youtube.com/watch?v=igb4PtH6loI&list=PLmpxKH_g1AjI-QSqlvF7tjOVBr_WrDWeZ).
+The walkthrough videos along with performances created using B2TD can be found in the playlist [B2TD - Walkthrough and Performances](https://www.youtube.com/watch?v=igb4PtH6loI&list=PLmpxKH_g1AjI-QSqlvF7tjOVBr_WrDWeZ).
 
 ## Setup
 
