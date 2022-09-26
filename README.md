@@ -25,7 +25,7 @@ The walkthrough videos along with performances created using B2TD can be found i
 The current iteration of B2TD has limited functionality and documentation, the demo performances use features beyond its scope. The functionality of B2TD can be expanded to features including, but not limited to:
 - Setting light patterns
 - Saving and switching between light states
-- Changing light appearance and control based on conditions, events, and/or a timeline
+- Changing light appearance and control based on conditions, events, and/or an animation timeline
 - Controlling lights through: 
   - MIDI controllers
   - Abelton Live
