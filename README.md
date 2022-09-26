@@ -33,4 +33,4 @@ The current iteration of B2TD has limited functionality and documentation, the d
 To expand the program functionality, please contact b2td@derrekchow.com
 
 ## Credits
-B2TD was created by [Derrek Chow](https://derrekchow.com/) in Summer 2022.
+B2TD was created by [Derrek Chow](https://derrekchow.com/), a visiting researcher at the [ATLAS Institute](https://www.colorado.edu/atlas/) in Summer 2022.
